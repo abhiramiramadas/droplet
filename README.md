@@ -2,7 +2,11 @@
 
 A beautiful, gamified water tracking application built with React, TypeScript, and Tailwind CSS. Stay hydrated with personalized reminders, track your daily water intake, and watch your water companion grow as you maintain healthy hydration habits.
 
-![Droplet App](https://images.unsplash.com/photo-1548839140-29a749e1cf4d?auto=format&fit=crop&q=80&w=1600)
+![Droplet Preview]![Capture](https://github.com/user-attachments/assets/d47e945c-c57b-44c0-812f-75a453143c7b)
+
+
+## 🌍 Live Preview
+[Try it here!](https://amazing-alfajores-61b61e.netlify.app/)
 
 ## ✨ Features
 
@@ -13,8 +17,11 @@ A beautiful, gamified water tracking application built with React, TypeScript, a
 - **Dark Mode**: Seamless light/dark theme switching
 - **Persistent Storage**: Local storage integration to keep your data safe
 - **Responsive Design**: Works beautifully on all devices
+- **Progressive Web App (PWA)**: Install and use like a native app
 
 ## 🚀 Tech Stack
+
+![React](https://img.shields.io/badge/React-18-blue?style=flat&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-4.9-blue?style=flat&logo=typescript) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v3-blue?style=flat&logo=tailwindcss)
 
 - **Frontend**: React 18 with TypeScript
 - **State Management**: Zustand
@@ -24,19 +31,25 @@ A beautiful, gamified water tracking application built with React, TypeScript, a
 - **Notifications**: React Hot Toast
 - **Build Tool**: Vite
 
-## 📦 Installation
+## 🌎 Screenshots
+
+| Light Mode | Dark Mode |
+|------------|------------|
+| (https://github.com/user-attachments/assets/2f033eec-a9e3-4c9c-90ad-f30b4c480a8e)
+ | (https://github.com/user-attachments/assets/b681016b-3df3-4d6f-a777-1b236e7806d2)
+ |
+
+## 📚 Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/droplet.git
    cd droplet
    ```
-
 2. Install dependencies:
    ```bash
    npm install
    ```
-
 3. Start the development server:
    ```bash
    npm run dev
@@ -48,23 +61,20 @@ A beautiful, gamified water tracking application built with React, TypeScript, a
   ```bash
   npm run dev
   ```
-
 - **Build for Production**:
   ```bash
   npm run build
   ```
-
 - **Preview Production Build**:
   ```bash
   npm run preview
   ```
-
 - **Lint Code**:
   ```bash
   npm run lint
   ```
 
-## 🏗️ Project Structure
+## 🏰 Project Structure
 
 ```
 droplet/
@@ -100,31 +110,36 @@ droplet/
 - Adjust reminder preferences
 - Toggle dark/light mode
 
-## 🎨 Customization
+## 📱 How to Install as a PWA
 
-The app supports various customization options:
+Droplet is designed as a **Progressive Web App (PWA)**, allowing you to use it like a native app:
 
-- **Theme**: Toggle between light and dark mode
-- **Reminders**: Customize timing and frequency
-- **Goals**: Set personal daily water intake goals
-- **Character**: Watch your water companion evolve
+- **On Mobile**:
+  1. Open the website in Chrome/Safari.
+  2. Tap the "Add to Home Screen" option.
+  3. Enjoy using it as a standalone app!
 
-## 📱 Progressive Web App
-
-Droplet is designed as a Progressive Web App (PWA), offering:
-- Offline functionality
-- Install to home screen
-- Native-like experience
+- **On Desktop**:
+  1. Open the website in Chrome.
+  2. Click the install button in the address bar.
+  3. Launch from your applications menu!
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please follow these steps:
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+For guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## 📜 Issue Tracking
+
+- **Report bugs**: Use [GitHub Issues](https://github.com/yourusername/droplet/issues)
+- **Suggest features**: Start a discussion in [GitHub Discussions](https://github.com/yourusername/droplet/discussions)
 
 ## 📄 License
 
@@ -139,3 +154,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Made with 💙 by [Your Name]
+
