@@ -5,8 +5,8 @@ A beautiful, gamified water tracking application built with React, TypeScript, a
 ![Droplet Preview]![Capture](https://github.com/user-attachments/assets/d47e945c-c57b-44c0-812f-75a453143c7b)
 
 
-## 🌍 Live Preview
-[Try it here!](https://amazing-alfajores-61b61e.netlify.app/)
+🚀 **Live Preview:** [Click to Try Droplet](https://amazing-alfajores-61b61e.netlify.app/)
+
 
 ## ✨ Features
 
@@ -35,9 +35,8 @@ A beautiful, gamified water tracking application built with React, TypeScript, a
 
 | Light Mode | Dark Mode |
 |------------|------------|
-| (https://github.com/user-attachments/assets/2f033eec-a9e3-4c9c-90ad-f30b4c480a8e)
- | (https://github.com/user-attachments/assets/b681016b-3df3-4d6f-a777-1b236e7806d2)
- |
+| ![Light Mode](droplet.PNG) | ![Dark Mode](h.PNG) |
+
 
 ## 📚 Installation
 
@@ -153,5 +152,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💙 by [Your Name]
+Made with 💙 by Abby,stay hydrated
 
