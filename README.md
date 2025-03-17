@@ -2,7 +2,8 @@
 
 A beautiful, gamified water tracking application built with React, TypeScript, and Tailwind CSS. Stay hydrated with personalized reminders, track your daily water intake, and watch your water companion grow as you maintain healthy hydration habits.
 
-![Droplet Preview]![Capture](https://github.com/user-attachments/assets/d47e945c-c57b-44c0-812f-75a453143c7b)
+![Droplet Preview](https://github.com/user-attachments/assets/d47e945c-c57b-44c0-812f-75a453143c7b)
+
 
 
 🚀 **Live Preview:** [Click to Try Droplet](https://amazing-alfajores-61b61e.netlify.app/)
